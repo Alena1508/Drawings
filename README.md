@@ -1,4 +1,4 @@
-# Plugin-React-UserChat
+# Drawings plugin
 
 This plugin is used to support Drawings around a PulseTile ReactJS based application.
 
